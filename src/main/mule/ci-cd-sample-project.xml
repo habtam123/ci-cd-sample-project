@@ -16,7 +16,7 @@ http://www.mulesoft.org/schema/mule/ee/core http://www.mulesoft.org/schema/mule/
 output application/json
 ---
 {
-	response : "testing ci-cd sample project"
+	response : "final-project-testing-habtamu"
 }]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
