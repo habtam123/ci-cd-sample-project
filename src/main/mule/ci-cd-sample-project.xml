@@ -16,7 +16,7 @@ http://www.mulesoft.org/schema/mule/ee/core http://www.mulesoft.org/schema/mule/
 output application/json
 ---
 {
-	response : "final-project-testing-habtamu"
+	response : "final-project-testing-habtamu123"
 }]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
